@@ -5,20 +5,13 @@
   </a>
 </p>
 
-## **About me**
-- [X]+ years of experience in software engineering (medior/senior) and [X]+ years in technology, specializing in **end-to-end product development** with strong expertise in **[Your Core Expertise - e.g., back-end engineering, front-end development, full-stack]**
-- Former **[Previous Role/Title - e.g., CTO, Tech Lead, Senior Developer]**, with **[X] years** building **[Your Experience/Projects - e.g., my own startup, tech directly under CEOs]**
-- Currently **[Current Status - e.g., finishing my Master's degree at [University], working as [Role] at [Company], freelancing]**
-- Experienced tech speaker with workshops, talks, and recorded sessions on YouTube  
-  (sample talks: [Talk 1](link), [Talk 2](link))
-- Passionate about **[Your Interests - e.g., back-end engineering, creative technology, applied AI, web development]**
-- Building **[Your Projects/Communities - e.g., the [Country]-based community: [Community Name]]**
-- My works & craft:  
-  • GitHub: https://github.com/[your-username]  
-  • Devpost: https://devpost.com/[your-username]  
-  • Articles: https://[your-articles-url]
-- Open for **collaborations, workshops, classes,** or **engineering roles**
-- **[Additional Info - e.g., Teaching [subjects] as a side hustle, Consulting, etc.]**
+## **About Me**
+- I'm a junior programmer with a passion for learning and building cool things with code.
+- I have hands-on experience working with Python, JavaScript, and PHP, creating small projects and experimenting with web development.
+- Currently, I'm focused on improving my skills in back-end and front-end development, and I enjoy participating in coding challenges and online courses.
+- I love collaborating with others, whether it's contributing to open source projects or teaming up on hackathons.
+- Some of my projects and code can be found on my GitHub: https://github.com/ryustore69
+- Always eager to connect with other developers, join new projects, and learn from the community.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
