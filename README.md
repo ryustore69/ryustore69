@@ -17,7 +17,15 @@ I enjoy building projects using modern web technologies and exploring both front
 - 📚 Active learner through courses, documentation, and coding challenges  
 - 🔗 GitHub profile: **https://github.com/ryustore69**
 
-<br>
+---
+
+## 🎯 Areas of Interest
+
+- Full-Stack Web Development  
+- API Development & Integrations  
+- Open Source Contributions  
+- Automation & Scripting  
+- Performance Optimization  
 
 ---
 
@@ -68,7 +76,27 @@ I enjoy building projects using modern web technologies and exploring both front
 
 ---
 
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/ryustore69"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
+
+---
+
+## ❤️ Support My Work
+
+If you find my projects useful, consider supporting me:
+
+<p align="left">
+  <a href="#"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
+</p>
+
+---
+
 ## 📝 Credits  
 Created and maintained by **Maulana Aditya**  
 GitHub: https://github.com/ryustore69  
-© 2025 — All rights reserved.
+© 2025. All rights reserved.  
