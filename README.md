@@ -1,7 +1,7 @@
-<h1 align="center"><b>Hi, I'm [Your Name]</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm Maulana Aditya</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=650&height=100&lines=[Your+Tagline+1];[Your+Tagline+2];[Your+Tagline+3];[Your+Tagline+4];[Your+Tagline+5];">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=650&height=100&lines=Junior+Programmer;+Lifelong+Learner;+Open+Source+Enthusiast;+Building+cool+things+with+code;+Let%27s+collaborate!">
   </a>
 </p>
 
