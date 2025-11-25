@@ -98,5 +98,5 @@ If you find my projects useful, consider supporting me:
 
 ## 📝 Credits  
 Created and maintained by **Maulana Aditya**  
-GitHub: https://github.com/ryustore69  
-© 2025. All rights reserved.  
+<a href="https://github.com/ryustore69" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@ryustore69-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+<a href="https://github.com/ryustore69/ryustore69" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/ryustore69/ryustore69?label=profile%20updated&style=flat-square"></a>
